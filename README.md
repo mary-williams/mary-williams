@@ -45,4 +45,4 @@
 - 👾 [My Website](https://marywillivms.web.app/)
 ---
 
-⭐️ Thanks for stopping by! Feel free to check out my repos and say hi!
+⭐️ Thanks for stopping by! Feel free to check out my repos!
