@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 🎓 I'm a Computer Science student with a passion for clean code and good design.
-- 🛠️ I love building cool UIs, exploring new libraries, and automating boring stuff.
+- 🛠️ I love building cool UIs, exploring new libraries, and learning new tools.
 - 🌐 Currently diving deeper into web development and mobile apps.
 
 ---
