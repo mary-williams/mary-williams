@@ -45,5 +45,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mary-williams-383a6728b/)
 - 👾 [My Website](https://marywillivms.web.app/)
 ---
-
-⭐️ Thanks for stopping by! Feel free to check out my repos!
